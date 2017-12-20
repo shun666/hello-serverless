@@ -2,7 +2,7 @@ export const hello = (event, context, callback) => {
     const response = {
         statusCode: 200,
         body: JSON.stringify({
-            message: 'Go Serverless v1.0! Your function executed successfully! こんにちはServerLess！！！！！！！',
+            message: 'Go Serverless v1.0! Your function executed successfully! こんにちはServerLess！！！！！！！わあわあわあ！！！！！',
             input: event,
         }),
     }
